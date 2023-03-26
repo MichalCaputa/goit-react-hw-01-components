@@ -6,14 +6,6 @@ tfoot {
   background-color: #3f87a6;
   color: #fff;
 }
-tbody:nth-child(even) tr:nth-child(odd) {
-  background-color: cadetblue;
-}
-
-tbody:nth-child(even) tr:nth-child(even) {
-  background-color: rgb(103, 104, 166);
-}
-
 caption {
   padding: 10px;
   caption-side: bottom;
